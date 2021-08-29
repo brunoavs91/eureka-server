@@ -1,0 +1,7 @@
+server:
+  port: https://eureka-server-boa-entrega.herokuapp.com/
+
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka : false

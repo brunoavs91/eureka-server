@@ -1,8 +1,5 @@
 
-server:
-    port: 8761
-
-eureka:
-  client:
-    fetch-registry: false
-    register-with-eureka : false
+spring:
+  config:
+    activate:
+      on-profile: prod
