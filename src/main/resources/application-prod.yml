@@ -1,5 +1,5 @@
 server:
-  port: https://eureka-server-boa-entrega.herokuapp.com/
+  port: 8761
 
 eureka:
   client:
